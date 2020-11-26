@@ -1,4 +1,4 @@
 java
 tomcat
 mysql
-ngnix x.y.z
+ngnix 1.8.2
